@@ -43,3 +43,5 @@ def binary_search(arr, target):
 
 for i in range(b):
     print(binary_search(a_list, b_list[i]))
+
+#
